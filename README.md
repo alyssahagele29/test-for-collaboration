@@ -6,7 +6,7 @@ testing collab in week 6
 This is a repo for testing, pulling, staging, committing, pulling, pushing, 
 and communicating with collaborators. 
 
-##file and data info
+## file and data info
 
 We should add file structure later
-##link to rendered output
+## link to rendered output
