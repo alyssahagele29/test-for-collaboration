@@ -1,6 +1,6 @@
 ---
 title: "testing collaboraation"
-author: "Sami Gibson"
+author: "Sami Gibson, Alyssa Hagele"
 format: pdf
 ---
 
