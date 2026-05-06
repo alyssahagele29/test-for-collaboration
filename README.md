@@ -8,4 +8,5 @@ and communicating with collaborators.
 
 ##file and data info
 
+We should add file structure later
 ##link to rendered output
